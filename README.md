@@ -1,1 +1,3 @@
-# Deng_WLS_2023
+These are the codes in R accompanying the manuscript *Integrating coexistence and invasion theories under a probabilistic framework* written by *Jie Deng, Washington Taylor, Simon A. Levin*, and *Serguei Saavedra*. The codes are well commented with simple examples.
+
+Specifically, `toolbox.R` provides the functions to calculate the probabilistic measures (Figs. 2 & 3 in the manuscript) of simultaneous assembly outcomes (i.e., individual survival, community persistence, competitor exclusion) and sequential assembly outcomes (i.e., invader colonization, invader-resident augmentation, resident replacement). Also, `example.R` illustrates an example of how to use the functions in `toolbox.R`.
